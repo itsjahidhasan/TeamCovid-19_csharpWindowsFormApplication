@@ -1,0 +1,107 @@
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\bin\Debug\team_covid_19.exe.config
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\bin\Debug\team_covid_19.exe
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\bin\Debug\team_covid_19.pdb
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Form1.resources
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Properties.Resources.resources
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.csproj.GenerateResource.Cache
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.exe
+c:\users\dcl\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.pdb
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.login_window.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.doctor_login.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.doctor_home.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_login.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_signup.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_home.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.web_update.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Info_covid19.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.symptoms.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.online_consulting.resources
+C:\Users\DCL\documents\visual studio 2012\Projects\team_covid_19\team_covid_19\obj\Debug\team_covid_19.csprojResolveAssemblyReference.cache
+E:\university\8th semester\oop2 c#\project\team_covid_19\team_covid_19\bin\Debug\team_covid_19.exe.config
+E:\university\8th semester\oop2 c#\project\team_covid_19\team_covid_19\obj\Debug\team_covid_19.exe
+E:\university\8th semester\oop2 c#\project\team_covid_19\team_covid_19\obj\Debug\team_covid_19.pdb
+E:\C# work\team_covid_19\team_covid_19\bin\Debug\team_covid_19.exe.config
+E:\C# work\team_covid_19\team_covid_19\bin\Debug\team_covid_19.exe
+E:\C# work\team_covid_19\team_covid_19\bin\Debug\team_covid_19.pdb
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.csprojAssemblyReference.cache
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.doctor_home.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.doctor_login.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Form1.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Info_covid19.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.login_window.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.online_consulting.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_home.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_login.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.patient_signup.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.Properties.Resources.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.symptoms.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.web_update.resources
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.csproj.GenerateResource.cache
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.exe
+E:\C# work\team_covid_19\team_covid_19\obj\Debug\team_covid_19.pdb
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\bin\Debug\team_covid_19.exe.config
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.exe
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.pdb
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\bin\Debug\team_covid_19.exe
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\bin\Debug\team_covid_19.pdb
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.csprojResolveAssemblyReference.cache
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.Form1.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.online_consulting.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.Properties.Resources.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.TestYourHealth.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.web_update.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.csproj.GenerateResource.Cache
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminHome.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminLogin.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorHome.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorPrecription.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Information.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Login.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientHome.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientPrescription.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientSignup.resources
+E:\university\8th semester\oop2 c#\project\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Symptom.resources
+E:\C# work\v0.3\team_covid_19\bin\Debug\team_covid_19.exe.config
+E:\C# work\v0.3\team_covid_19\bin\Debug\team_covid_19.exe
+E:\C# work\v0.3\team_covid_19\bin\Debug\team_covid_19.pdb
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.csprojAssemblyReference.cache
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminHome.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminLogin.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorHome.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorPrecription.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.Form1.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Information.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Login.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.online_consulting.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientHome.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientPrescription.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Signup.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.Properties.Resources.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Symptom.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.TestYourHealth.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.web_update.resources
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.csproj.GenerateResource.cache
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.exe
+E:\C# work\v0.3\team_covid_19\obj\Debug\team_covid_19.pdb
+F:\New folder\v0.3\team_covid_19\bin\Debug\team_covid_19.exe.config
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.exe
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.pdb
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.csprojResolveAssemblyReference.cache
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminHome.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.AdminLogin.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorHome.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.DoctorPrecription.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.Form1.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Information.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Login.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.online_consulting.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientHome.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.PatientPrescription.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Signup.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.Properties.Resources.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.Symptom.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.UI.TestYourHealth.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.web_update.resources
+F:\New folder\v0.3\team_covid_19\obj\Debug\team_covid_19.csproj.GenerateResource.Cache
+F:\New folder\v0.3\team_covid_19\bin\Debug\team_covid_19.exe
+F:\New folder\v0.3\team_covid_19\bin\Debug\team_covid_19.pdb

@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05519716-4022-4D92-B8F2-4B5FA0462EBA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>team_covid_19</RootNamespace>
+    <AssemblyName>team_covid_19</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Admin.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Repository\AdminLoginRepository.cs" />
+    <Compile Include="Repository\DataAccess.cs" />
+    <Compile Include="Repository\LoginRepository.cs" />
+    <Compile Include="Repository\SignupRepository.cs" />
+    <Compile Include="Repository\UserRepository.cs" />
+    <Compile Include="Services\AdminLoginServices.cs" />
+    <Compile Include="Services\LoginService.cs" />
+    <Compile Include="Services\SignupService.cs" />
+    <Compile Include="Services\UserService.cs" />
+    <Compile Include="UI\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorHome.Designer.cs">
+      <DependentUpon>DoctorHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DoctorPrecription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DoctorPrecription.Designer.cs">
+      <DependentUpon>DoctorPrecription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\online_consulting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\online_consulting.Designer.cs">
+      <DependentUpon>online_consulting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PatientHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PatientHome.Designer.cs">
+      <DependentUpon>PatientHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\PatientPrescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PatientPrescription.Designer.cs">
+      <DependentUpon>PatientPrescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Signup.Designer.cs">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Symptom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Symptom.Designer.cs">
+      <DependentUpon>Symptom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TestYourHealth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TestYourHealth.Designer.cs">
+      <DependentUpon>TestYourHealth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\web_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\web_update.Designer.cs">
+      <DependentUpon>web_update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorHome.resx">
+      <DependentUpon>DoctorHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DoctorPrecription.resx">
+      <DependentUpon>DoctorPrecription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\online_consulting.resx">
+      <DependentUpon>online_consulting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PatientHome.resx">
+      <DependentUpon>PatientHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\PatientPrescription.resx">
+      <DependentUpon>PatientPrescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Signup.resx">
+      <DependentUpon>Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\Symptom.resx">
+      <DependentUpon>Symptom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TestYourHealth.resx">
+      <DependentUpon>TestYourHealth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\web_update.resx">
+      <DependentUpon>web_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\357-3573718_transparent-login-button-png-png-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\215-2152983_blue-submit-button-png-red-dwarf-what-is.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\78-780842_back-button-white-icon-png-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-logout-icon-png-image_4233257.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vector-logout-icon-png-image_4013726.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

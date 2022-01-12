@@ -13,7 +13,7 @@ namespace team_covid_19.Repository
         private SqlCommand command;
         public DataAccess()
         {
-            this.connection = new SqlConnection(@"Data Source=DESKTOP-5UJRPCM;Initial Catalog=team19;Integrated Security=True;");
+            this.connection = new SqlConnection(@"Data Source=LAPTOP-CTA7J4T7\SQLEXPRESS;Initial Catalog=team19;Integrated Security=True;");
            
             this.connection.Open();
         }
